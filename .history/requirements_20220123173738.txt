@@ -8,4 +8,3 @@ pytest-metadata==1.11.0
 pytest-rerunfailures==10.2
 requests==2.27.1
 pymongo==3.12.3
-wxPython==4.1.1

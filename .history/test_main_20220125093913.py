@@ -55,5 +55,3 @@ if __name__ == "__main__":
     app = mainApp(redirect=True, filename="debug.txt")
     app.MainLoop()
 
-
-
